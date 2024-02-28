@@ -1,0 +1,8 @@
+p{
+    color: blue;
+  }
+  tr,td{
+    background-color: red;
+  }
+  body{
+    background-color: blueviolet;width: 100%; height: 100px}
